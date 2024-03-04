@@ -4,8 +4,12 @@
   "description": "For misceleneous practice",
   "main": "simpleHTTPserver.js",
   "scripts": {
-    "test": "node simpleHTTPserver"
+    "server": "node simpleHTTPserver",
+    "routes": "node simpleRoutes"
   },
   "author": "asheshjyoti",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "url": "^0.11.3"
+  }
 }
