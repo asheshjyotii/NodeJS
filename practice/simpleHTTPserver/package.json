@@ -1,0 +1,11 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "For misceleneous practice",
+  "main": "simpleHTTPserver.js",
+  "scripts": {
+    "test": "node simpleHTTPserver"
+  },
+  "author": "asheshjyoti",
+  "license": "MIT"
+}
