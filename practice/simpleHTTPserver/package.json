@@ -5,11 +5,12 @@
   "main": "simpleHTTPserver.js",
   "scripts": {
     "server": "node simpleHTTPserver",
-    "routes": "node simpleRoutes"
+    "routes": "node simpleRoutes",
+    "express01": "node serverUsingExpress"
   },
   "author": "asheshjyoti",
   "license": "MIT",
   "dependencies": {
-    "url": "^0.11.3"
+    "express": "^4.18.3"
   }
 }
